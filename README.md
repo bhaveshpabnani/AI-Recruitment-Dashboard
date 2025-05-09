@@ -2,11 +2,9 @@
 
 A modern AI-powered recruitment dashboard built with React, TypeScript, and Tailwind CSS, designed to streamline the hiring process with intelligent candidate management, job tracking, and AI-assisted communication.
 
-![Dokkaebi Recruitment Hub](https://via.placeholder.com/800x400?text=Dokkaebi+Recruitment+Hub)
-
 ## Live Demo
 
-Visit the application at [your-firebase-url.web.app](https://your-firebase-url.web.app)
+Visit the application at https://dokkaabi.web.app/
 
 ## Features
 
